@@ -1,1 +1,1 @@
-print("Ramazon muborak!") 
+a = int(input("Matn kirit"))
